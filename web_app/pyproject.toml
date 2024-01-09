@@ -1,5 +1,5 @@
 [project]
-name            = "cloudacademy"
+name            = "ethanacademy"
 version         = "0.0.1"
 
 dependencies    = [
